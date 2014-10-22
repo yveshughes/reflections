@@ -17,3 +17,7 @@ Why do you think some version control systems, like Git, allow saving multiple f
 How can you use the commands git log and git diff to view the history of files?
 
 >> git log will show each time files are committed and git diff will show the differences between them
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+>> I want to put all my website projects within git now. I have several projects with folders upon folders of project states
